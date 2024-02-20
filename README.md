@@ -1,2 +1,2 @@
-# conventional-calculator
-This calculator is for JS practice
+# Conventional Calculator
+This calculator app is for JS practice only
